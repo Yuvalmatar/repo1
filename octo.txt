@@ -1,4 +1,8 @@
 octopussy
 jhjkkjhhlkhklhlkjl
+<<<<<<< HEAD
 
 asjdjaslkdjka
+=======
+kdjasl;kdjaslkdjkas
+>>>>>>> 496d9c2a416bdab777f195fc80e01330a20f33ab
